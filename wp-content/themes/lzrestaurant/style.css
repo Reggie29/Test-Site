@@ -652,7 +652,7 @@ div#content h2 {
   padding:10px 15px;
 }
 #header .nav ul li a:hover {
-  color:#eb4444;
+  color:#0000;
 }
 #header .nav ul ul {
   margin:5% 0 0 0;
@@ -2758,7 +2758,7 @@ iframe {
 	}
 
 	.main-navigation ul {
-		background: transparent;
+		background: #000000;
 		padding: 0;
 	}
 
@@ -2952,7 +2952,10 @@ iframe {
 		height: 18px;
 		width: 18px;
 	}
-
+	
+	.col-lg-6.col-md-6 {
+		background: black;
+	}
 	/* Front Page */
 
 	.lzrestaurant-front-page.has-header-image .site-branding,
