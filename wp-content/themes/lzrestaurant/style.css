@@ -580,7 +580,7 @@ a:hover .nav-title,
 }
 .main-top{
 	position: static;
-	background-color: #d5545485;
+	background-color: #0000;
 	/*margin-bottom: 20px;*/
 }
 .logo{
@@ -2953,9 +2953,7 @@ iframe {
 		width: 18px;
 	}
 	
-	.col-lg-6.col-md-6 {
-		background: black;
-	}
+	
 	/* Front Page */
 
 	.lzrestaurant-front-page.has-header-image .site-branding,
