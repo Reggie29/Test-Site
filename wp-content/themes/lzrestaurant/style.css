@@ -1861,14 +1861,14 @@ h2.widget-title {
 #sidebar h2.widget-title {
     padding: 10px;
     display: inline;
-    background-color: #eb4444;
+    background-color: #070707;
     color: #fff;
     font-size: 15px;
     letter-spacing: normal;
 }
 
 #sidebar .tagcloud a:hover {
-    background: #eb4444;
+    background: #817f7f33;
     border: 1px solid #000;
     color: #000;
 }
@@ -2106,7 +2106,7 @@ div#sidebar a {
 }
 
 button.search-submit{
-	background-color: #eb4444;
+	background-color: #000000;
 }
 
 /* Tag cloud widget */
