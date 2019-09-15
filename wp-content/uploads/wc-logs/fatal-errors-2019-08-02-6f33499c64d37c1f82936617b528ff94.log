@@ -1,0 +1,6 @@
+2019-08-02T06:19:06+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\Test Site\wp-includes\Requests\Transport\cURL.php on line 163
+
+2019-08-02T06:19:56+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\Test Site\wp-includes\Requests\Transport\cURL.php on line 463
+
+2019-08-02T06:23:50+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\Test Site\wp-includes\Requests\Transport\cURL.php on line 163
+
