@@ -5,7 +5,7 @@ Tags: Elementor,Beaver Builder,Templates,Gutenberg,Astra Starter Sites
 Requires at least: 4.4
 Requires PHP: 5.3
 Tested up to: 5.2
-Stable tag: 1.3.17
+Stable tag: 1.3.19
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -46,7 +46,7 @@ You can extend this library with premium ready-to-use website demos by purchasin
 
 = WHY PEOPLE LOVE THE ASTRA THEME? =
 
-Over 300,000+ users are empowering their websites with Astra! From beginners to industry experts, everyone is loving Astra for its performance and ease of use.
+Over 200,000+ users are empowering their websites with Astra! From beginners to industry experts, everyone is loving Astra for its performance and ease of use.
 
 = Here are a few reasons why they love Astra - =
 
@@ -54,13 +54,9 @@ Over 300,000+ users are empowering their websites with Astra! From beginners to 
 
 **Easy Customization** - With all the settings managed through the customizer, Astra keeps it simple and gives you lots of options to customize everything with a few clicks.
 
-**Compatibility with Page Builders** - Astra is built to work great with all major page builders like Elementor, Beaver Builder, Brizy, Divi, etc. With support for custom layouts and templates, it has soon become a favorite <a href="https://wpastra.com/theme-for-elementor/?utm_source=wp-repo&utm_medium=astra_desc&utm_campaign=starter_sites">theme for Elementor</a>, Beaver Builder and all the others
-
-**Pixel Perfect Design** - Astra reduces your design time by giving you pixel-perfect FREE ready-to-use website demos within a huge library of starter sites.
+**Pixel Perfect Design** - Astra reduces your design time by giving you pixel-perfect FREE ready-to-use websites demos within a huge library of starter sites.
 
 **Deeper Integrations** - Astra works seamlessly with all WooCommerce plugins, LifterLMS, LearnDash etc. This means that you can create and beautify eCommerce websites and those that offer online courses in minutes.
-
-**Ready-to-use complete website demos** - You get the above collection of ready-to-use free starter sites that can be imported and used with the Astra theme.
 
 Fetch the website, tweak images and content and go live!
 
@@ -121,8 +117,14 @@ We are open to suggestions and would love to work on topics that our users are l
 
 == Changelog ==
 
+v1.3.19 - 12-September-2019
+- Improvement: Allow extra query parameters to be added to the API calls for Astra Sites using filters.
+
+v1.3.18 - 5-September-2019
+- Improvement: Error handling while getting import data from API request.
+
 v1.3.17 - 28-June-2019
-- Minor changes in Links
+- Improvement: Minor changes in Links
 
 v1.3.16 - 21-June-2019
 - Fix: WooCommerce onboarding setup blocked issue fixed.
